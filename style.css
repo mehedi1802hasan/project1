@@ -96,3 +96,31 @@ margin-left:58px;
 .grad-title{
 color:white;
 }
+/*footer style*/
+.footer-section{
+    margin-top: 40px;
+    display: flex;
+    background-color: #151414;
+    
+
+}
+.footer-title{
+    color:white;
+
+}
+.footer-item{
+    gap:20px;
+margin-left: 140px;
+margin-top: 40px;
+margin-right:220px;
+}
+.footer-sub-title{
+    color:white;
+}
+.input-cls{
+    margin-bottom: 10px;
+    width: 200px;
+    height:24px;
+    border:2px solid rgb(212, 198, 198);
+    background-color: rgb(219, 219, 219);
+}
