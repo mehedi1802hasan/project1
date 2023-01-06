@@ -81,3 +81,18 @@ gap:20px;
 margin-left:58px;
 
 }
+/*gradiant style*/
+.section-grad{
+    margin-top: 50px;
+    margin-left:50px;
+    width:1000px;
+    height:140px;
+    background-image:url('/watch.png');
+    border-radius: 8px;
+}
+.padding{
+    padding:30px;
+}
+.grad-title{
+color:white;
+}
