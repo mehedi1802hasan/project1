@@ -1,0 +1,64 @@
+.header{
+    background-image: url('banner3.png');
+    background-repeat: no-repeat;
+    width:100%px;
+height:800px;
+margin: 0;
+}
+.banner-title{
+    font-weight: 700;
+    font-size: 65px;
+color:white;
+text-align: right;
+}
+.banner-description{
+    font-weight: 400;
+    font-size: 16px;
+    text-align: right;
+    color:rgb(255, 244, 224)
+}
+/*main section*/
+/*failur style*/
+main{
+    max-width: 1140px;
+    margin:0 auto;
+}
+
+.section-failur{
+    display:flex;
+    gap:150px;
+  
+}
+.failur-contant{
+    width: 416px;
+height: 408px;
+margin-top: 364px;
+}
+img{
+    width:570px;
+height:640px;
+margin-top: 188px;
+}
+.section-title{
+    font-weight: 700;
+    font-size: 40px;
+    color: #151414;
+}
+.section-sub-title{
+font-weight: 400;
+font-size: 16px;
+color: #444343;
+margin-top:24px;
+margin-bottom: 24px;
+}
+.unorderlist{
+    color: #444343;
+}
+.unorderlist li{
+list-style: none;
+}
+.awesome-icon{
+    color:green
+}
+
+/*plan style*/ 
